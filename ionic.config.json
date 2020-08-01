@@ -1,0 +1,7 @@
+{
+  "name": "BreathAIEngineering",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
